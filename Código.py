@@ -44,7 +44,7 @@ print(tabela)
 # Passo 4: Cadastrar um produto
 for linha in tabela.index:
     # clicar no campo de código
-    pyautogui.click(x=653, y=294)
+    pyautogui.click(x=719, y=257)
     # pegar da tabela o valor do campo que a gente quer preencher
     # preencher o campo
     # [número da linha, coluna]
