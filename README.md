@@ -29,7 +29,7 @@ Importamos pyautogui para automatizar interações com a tela.
 <div>Exibimos a tabela com print(tabela).
 </div>
   
-##Cadastrando os Produtos
+## Cadastrando os Produtos
 <div>Percorremos todas as linhas da tabela usando um for.
 <div>Para cada produto, seguimos este processo:
 <div>Clicamos no campo de código (x=719, y=257).
