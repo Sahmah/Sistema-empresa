@@ -11,7 +11,7 @@ Importamos pyautogui para automatizar interações com a tela.
 <div>Digita "Google Chrome" e abre o navegador.
 <div>Clica se em uma posição específica (x=1011, y=492) para garantir que a janela esteja ativa.
 <div>Acessando o Link de Login
-<div>Digita se a URL https://dlp.hashtagtreinamentos.com/python/intensivao/login e pressionamos Enter.
+<div>Digita se a URL https://dlp.hashtagtreinamentos.com/python/intensivao/login 
 <div>Usa se time.sleep(3) para esperar a página carregar.
 </div>
   
